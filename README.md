@@ -1,2 +1,2 @@
-# MyRepository
-My main repository for practicing git & github
+# my-repository
+my main repository for practicing git & github.
